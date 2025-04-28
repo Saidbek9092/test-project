@@ -7,7 +7,8 @@ function App() {
 
     return (
         <div className="app">
-            <CounterList/>
+          <h1>test</h1>
+            {/* <CounterList/> */}
         </div>
     )
 }
